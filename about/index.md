@@ -19,7 +19,7 @@ comments: false
 
 ## Want to read the boring paragraph below? Go on, at your own risk :P
 {% capture images %}
-    http://localhost:4000/assets/img/avatar.jpg
+    https://prateekgrover.com/assets/img/avatar.jpg
 {% endcapture %}
 {% include gallery images=images caption="Cool!!" cols=1 %}
 
@@ -33,8 +33,8 @@ Intrigued by the potential of mobile applications, I delved into learning Androi
 
 I am currently working as a mobile application developer in Routofy, a travel startup based in New Delhi.
 
-To know more, have a look at few of my [projects](http://prateekgrover.com/projects) and [work experience](http://prateekgrover.com/work)
+To know more, have a look at few of my [projects](https://prateekgrover.com/projects) and [work experience](https://prateekgrover.com/work)
 
 ## Say Hi!
 
-You may contact me on the many [social networks](http://prateekgrover.com) I am active on or just drop me a [mail](mailto:me@prateekgrover.com).
+You may contact me on the many [social networks](https://prateekgrover.com) I am active on or just drop me a [mail](mailto:me@prateekgrover.com).

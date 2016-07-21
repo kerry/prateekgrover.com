@@ -8,7 +8,7 @@ logo:               'assets/img/avatar.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://localhost:4000
+url:                https://prateekgrover.com
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   prateekgrover
+#disqus_shortname:   prateekgrover
 
 # Social
 # if you don't have any of social below, comment the line.
