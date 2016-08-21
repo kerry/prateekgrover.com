@@ -1,6 +1,6 @@
 # Site
 title:              Prateek Grover
-bio:                'echo $me = "mobile/app/dev : curious/for/new/tech : get/things/done/attitude"'
+bio:                'export $me = "mobile/app/dev : curious/for/new/tech : get/things/done/attitude"'
 description:        ""
 reading_time:       true
 words_per_minute:   200
