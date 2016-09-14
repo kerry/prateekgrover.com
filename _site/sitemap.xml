@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://prateekgrover.com/kbtextview/</loc>
+<lastmod>2015-02-06T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>https://prateekgrover.com/ios-songs-application/</loc>
+<lastmod>2015-02-06T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>https://prateekgrover.com/imessage-bubble-like-chat-box/</loc>
+<lastmod>2015-02-06T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>https://prateekgrover.com/routofy-ios-application/</loc>
+<lastmod>2015-02-06T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>https://prateekgrover.com/iflychat-ios-sdk/</loc>
+<lastmod>2015-02-06T00:00:00+05:30</lastmod>
+</url>
+<url>
 <loc>https://prateekgrover.com/404</loc>
 </url>
 <url>
@@ -8,6 +28,9 @@
 </url>
 <url>
 <loc>https://prateekgrover.com/tags/</loc>
+</url>
+<url>
+<loc>https://prateekgrover.com/resume/</loc>
 </url>
 <url>
 <loc>https://prateekgrover.com/projects/</loc>

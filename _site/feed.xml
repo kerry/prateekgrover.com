@@ -1,1 +1,68 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="https://prateekgrover.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://prateekgrover.com/" rel="alternate" type="text/html" /><updated>2016-08-22T00:27:45+05:30</updated><id>https://prateekgrover.com/</id><title>Prateek Grover</title><subtitle></subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="https://prateekgrover.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://prateekgrover.com/" rel="alternate" type="text/html" /><updated>2016-09-15T00:36:36+05:30</updated><id>https://prateekgrover.com/</id><title>Prateek Grover</title><subtitle></subtitle><entry><title>Routofy iOS application</title><link href="https://prateekgrover.com/kbtextview/" rel="alternate" type="text/html" title="Routofy iOS application" /><published>2015-02-06T00:00:00+05:30</published><updated>2015-02-06T00:00:00+05:30</updated><id>https://prateekgrover.com/kbtextview</id><content type="html" xml:base="https://prateekgrover.com/kbtextview/">&lt;center&gt;This is the official iOS application of Routofy, which is a travel startup based out of Delhi, India.&lt;/center&gt;
+
+&lt;p&gt;The application was made completely in Swift while working as a mobile application developer in Routofy.&lt;/p&gt;
+
+&lt;h2 id=&quot;key-points&quot;&gt;Key Points:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Used &lt;a href=&quot;https://github.com/RestKit/RestKit&quot;&gt;RestKit&lt;/a&gt;, a popular library to convert JSON objects to native objects.&lt;/li&gt;
+  &lt;li&gt;Integrated Google, Facebook and usual username-password login system.&lt;/li&gt;
+  &lt;li&gt;Extensive use of dynamically created UI elements to cater to the dynamic nature of data.&lt;/li&gt;
+  &lt;li&gt;Integrated analytics tools like Google Analytics and Amplitude.&lt;/li&gt;
+  &lt;li&gt;Integrated crash analytics tool Bugsnag.&lt;/li&gt;
+  &lt;li&gt;Integrated Branch to create deep link URLs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;for-more-information-check-out-routofys-websitehttpswwwroutofycom&quot;&gt;For more information, check out &lt;a href=&quot;https://www.routofy.com/&quot;&gt;Routofy’s website&lt;/a&gt;&lt;/h2&gt;</content><category term="iOS" /><category term="travel" /><category term="multi-modal" /><category term="routofy" /><summary>Routofy&#39;s official iOS application</summary></entry><entry><title>Routofy iOS application</title><link href="https://prateekgrover.com/ios-songs-application/" rel="alternate" type="text/html" title="Routofy iOS application" /><published>2015-02-06T00:00:00+05:30</published><updated>2015-02-06T00:00:00+05:30</updated><id>https://prateekgrover.com/ios-songs-application</id><content type="html" xml:base="https://prateekgrover.com/ios-songs-application/">&lt;center&gt;This is the official iOS application of Routofy, which is a travel startup based out of Delhi, India.&lt;/center&gt;
+
+&lt;p&gt;The application was made completely in Swift while working as a mobile application developer in Routofy.&lt;/p&gt;
+
+&lt;h2 id=&quot;key-points&quot;&gt;Key Points:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Used &lt;a href=&quot;https://github.com/RestKit/RestKit&quot;&gt;RestKit&lt;/a&gt;, a popular library to convert JSON objects to native objects.&lt;/li&gt;
+  &lt;li&gt;Integrated Google, Facebook and usual username-password login system.&lt;/li&gt;
+  &lt;li&gt;Extensive use of dynamically created UI elements to cater to the dynamic nature of data.&lt;/li&gt;
+  &lt;li&gt;Integrated analytics tools like Google Analytics and Amplitude.&lt;/li&gt;
+  &lt;li&gt;Integrated crash analytics tool Bugsnag.&lt;/li&gt;
+  &lt;li&gt;Integrated Branch to create deep link URLs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;for-more-information-check-out-routofys-websitehttpswwwroutofycom&quot;&gt;For more information, check out &lt;a href=&quot;https://www.routofy.com/&quot;&gt;Routofy’s website&lt;/a&gt;&lt;/h2&gt;</content><category term="iOS" /><category term="travel" /><category term="multi-modal" /><category term="routofy" /><summary>Routofy&#39;s official iOS application</summary></entry><entry><title>Routofy iOS application</title><link href="https://prateekgrover.com/imessage-bubble-like-chat-box/" rel="alternate" type="text/html" title="Routofy iOS application" /><published>2015-02-06T00:00:00+05:30</published><updated>2015-02-06T00:00:00+05:30</updated><id>https://prateekgrover.com/imessage-bubble-like-chat-box</id><content type="html" xml:base="https://prateekgrover.com/imessage-bubble-like-chat-box/">&lt;center&gt;This is the official iOS application of Routofy, which is a travel startup based out of Delhi, India.&lt;/center&gt;
+
+&lt;p&gt;The application was made completely in Swift while working as a mobile application developer in Routofy.&lt;/p&gt;
+
+&lt;h2 id=&quot;key-points&quot;&gt;Key Points:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Used &lt;a href=&quot;https://github.com/RestKit/RestKit&quot;&gt;RestKit&lt;/a&gt;, a popular library to convert JSON objects to native objects.&lt;/li&gt;
+  &lt;li&gt;Integrated Google, Facebook and usual username-password login system.&lt;/li&gt;
+  &lt;li&gt;Extensive use of dynamically created UI elements to cater to the dynamic nature of data.&lt;/li&gt;
+  &lt;li&gt;Integrated analytics tools like Google Analytics and Amplitude.&lt;/li&gt;
+  &lt;li&gt;Integrated crash analytics tool Bugsnag.&lt;/li&gt;
+  &lt;li&gt;Integrated Branch to create deep link URLs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;for-more-information-check-out-routofys-websitehttpswwwroutofycom&quot;&gt;For more information, check out &lt;a href=&quot;https://www.routofy.com/&quot;&gt;Routofy’s website&lt;/a&gt;&lt;/h2&gt;</content><category term="iOS" /><category term="travel" /><category term="multi-modal" /><category term="routofy" /><summary>Routofy&#39;s official iOS application</summary></entry><entry><title>Routofy iOS application</title><link href="https://prateekgrover.com/routofy-ios-application/" rel="alternate" type="text/html" title="Routofy iOS application" /><published>2015-02-06T00:00:00+05:30</published><updated>2015-02-06T00:00:00+05:30</updated><id>https://prateekgrover.com/routofy-ios-application</id><content type="html" xml:base="https://prateekgrover.com/routofy-ios-application/">&lt;center&gt;This is the official iOS application of Routofy, which is a travel startup based out of Delhi, India.&lt;/center&gt;
+
+&lt;p&gt;The application was made completely in Swift while working as a mobile application developer in Routofy.&lt;/p&gt;
+
+&lt;h2 id=&quot;key-points&quot;&gt;Key Points:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Used &lt;a href=&quot;https://github.com/RestKit/RestKit&quot;&gt;RestKit&lt;/a&gt;, a popular library to convert JSON objects to native objects.&lt;/li&gt;
+  &lt;li&gt;Integrated Google, Facebook and usual username-password login system.&lt;/li&gt;
+  &lt;li&gt;Extensive use of dynamically created UI elements to cater to the dynamic nature of data.&lt;/li&gt;
+  &lt;li&gt;Integrated analytics tools like Google Analytics and Amplitude.&lt;/li&gt;
+  &lt;li&gt;Integrated crash analytics tool Bugsnag.&lt;/li&gt;
+  &lt;li&gt;Integrated Branch to create deep link URLs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;for-more-information-check-out-routofys-websitehttpswwwroutofycom&quot;&gt;For more information, check out &lt;a href=&quot;https://www.routofy.com/&quot;&gt;Routofy’s website&lt;/a&gt;&lt;/h2&gt;</content><category term="iOS" /><category term="travel" /><category term="multi-modal" /><category term="routofy" /><summary>Routofy&#39;s official iOS application</summary></entry><entry><title>iFlyChat iOS SDK</title><link href="https://prateekgrover.com/iflychat-ios-sdk/" rel="alternate" type="text/html" title="iFlyChat iOS SDK" /><published>2015-02-06T00:00:00+05:30</published><updated>2015-02-06T00:00:00+05:30</updated><id>https://prateekgrover.com/iflychat-ios-sdk</id><content type="html" xml:base="https://prateekgrover.com/iflychat-ios-sdk/">&lt;center&gt;An enterprise SDK for developers to integrate iFlyLab&#39;s product iFlyChat in iOS applications.&lt;/center&gt;
+
+&lt;p&gt;The SDK was written completely in Objective-C while I was working as a mobile application developer in iFlyLabs.&lt;/p&gt;
+
+&lt;h2 id=&quot;key-points&quot;&gt;Key Points:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Used &lt;a href=&quot;https://github.com/facebook/SocketRocket&quot;&gt;SocketRocket&lt;/a&gt;, a popular library to integrate websockets in iOS applications.&lt;/li&gt;
+  &lt;li&gt;Created a framework so that the SDK can be easily integrated by other developers.&lt;/li&gt;
+  &lt;li&gt;Used iOS notifications to communicate between different components of SDK, which really helped in creating a highly modular and loosely bound structure.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;for-more-information-check-out-iflychats-websitehttpsiflychatcomdocssdkiosquickstart&quot;&gt;For more information, check out &lt;a href=&quot;https://iflychat.com/docs/sdk/ios/quickstart&quot;&gt;iFlyChat’s website&lt;/a&gt;&lt;/h2&gt;</content><category term="iOS" /><category term="sdk" /><category term="enterprise" /><category term="iflychat" /><category term="iflylabs" /><summary>An enterprise SDK to integrate iFlyChat in iOS applications.</summary></entry></feed>

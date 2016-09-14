@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "iFlyChat iOS SDK"
-date:   2016-04-06
+date:   2015-02-06
 excerpt: "An enterprise SDK to integrate iFlyChat in iOS applications."
 project: true
 tag:
