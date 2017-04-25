@@ -20,9 +20,22 @@ Mobile application developer
 
 ## Currently
 
-I'm a Mobile (iOS) application and backend developer  at [Routofy](https://www.routofy.com/), based at their office in New Delhi, India. Here I wrote an iOS application from scratch using the already written REST APIs. Currently, I am working on Routofy's backend that is written in Java.
+I'm a iOS developer at [UpGrad](https://www.upgrad.com/), based at their office in Mumbai, India. Here I am writing their iOS application from scratch using the already written REST APIs.
 
 ## Employment
+
+### UpGrad
+
+`2016-Present` 
+__iOS Developer__
+
+Writing the iOS application for UpGrad in Swift.
+
+Using advanced networking and object mapping libraries.
+
+Following a protocol based VIPER architecture.
+
+Making views as per the specifications provided by the design team.
 
 ### Routofy
 
@@ -54,7 +67,7 @@ Used SocketRocket to communicate with WebSockets server for messages.
 
 Used iOS notifications to handle the communication between different parts.
 
-Wrote data migration scripts for iFlyChat’s servers using NodeJS, MongoDB and Redis.
+Wrote data migration scripts for iFlyChat�s servers using NodeJS, MongoDB and Redis.
 
 ## Technical skills
 
@@ -70,13 +83,18 @@ Wrote data migration scripts for iFlyChat’s servers using NodeJS, MongoDB and 
 
 ## Projects
 
+### KGProgress (beta)
+__A simple and beautiful loader for Swift__
+
+This is a simple and beautiful loader written completely in Swift that can be used with [StatefulViewController](https://github.com/aschuch/StatefulViewController) as well.
+
 ### Meteor
 __Authentication system with Meteor backend__
 
 Currently working on Meteor to create an integrated authentication system.Simultaneously creating iOS and Android application as client for Meteor backend using DDP libraries for both the platforms.
 
 ### Web-Dev
-Created a website for a group for posting blogs, viewing other’s profile and commenting along with other features.
+Created a website for a group for posting blogs, viewing other�s profile and commenting along with other features.
 
 Extensively used MySql and php for development.
 
