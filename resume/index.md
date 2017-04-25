@@ -26,7 +26,7 @@ I'm a iOS developer at [UpGrad](https://www.upgrad.com/), based at their office 
 
 ### UpGrad
 
-`2016-Present` 
+`Present` 
 __iOS Developer__
 
 Writing the iOS application for UpGrad in Swift.
@@ -39,7 +39,7 @@ Making views as per the specifications provided by the design team.
 
 ### Routofy
 
-`2016` 
+`2016`
 __Mobile application and backend developer__
 
 Wrote the iOS application for Routofy in Swift.
