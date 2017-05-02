@@ -20,7 +20,7 @@ Mobile application developer
 
 ## Currently
 
-I'm a iOS developer at [UpGrad](https://www.upgrad.com/), based at their office in Mumbai, India. Here I am writing their iOS application from scratch using the already written REST APIs.
+I'm an iOS developer at [UpGrad](https://www.upgrad.com/), based at their office in Mumbai, India. Here, I am writing their iOS application from scratch using the already written REST APIs as the backend.
 
 ## Employment
 
@@ -67,7 +67,7 @@ Used SocketRocket to communicate with WebSockets server for messages.
 
 Used iOS notifications to handle the communication between different parts.
 
-Wrote data migration scripts for iFlyChat�s servers using NodeJS, MongoDB and Redis.
+Wrote data migration scripts for iFlyChat's servers using NodeJS, MongoDB and Redis.
 
 ## Technical skills
 
@@ -94,7 +94,7 @@ __Authentication system with Meteor backend__
 Currently working on Meteor to create an integrated authentication system.Simultaneously creating iOS and Android application as client for Meteor backend using DDP libraries for both the platforms.
 
 ### Web-Dev
-Created a website for a group for posting blogs, viewing other�s profile and commenting along with other features.
+Created a website for a group for posting blogs, viewing other's profile and commenting along with other features.
 
 Extensively used MySql and php for development.
 
