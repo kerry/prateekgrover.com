@@ -15,12 +15,9 @@ Mobile application developer
 <i class="fa fa-github"></i> <a href="http://github.com/kerrygrover">kerrygrover</a>
 |
 <i class="fa fa-linkedin"></i> <a href="https://in.linkedin.com/in/prateekgrover">Prateek Grover</a>
+|
+<i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/4042468/kerry">kerry</a>
 </div>
-
-
-## Currently
-
-I'm an iOS developer at [UpGrad](https://www.upgrad.com/), based at their office in Mumbai, India. Here, I am writing their iOS application from scratch using the already written REST APIs as the backend.
 
 ## Employment
 
@@ -71,15 +68,7 @@ Wrote data migration scripts for iFlyChat's servers using NodeJS, MongoDB and Re
 
 ## Technical skills
 
-* Xcode
-* Android Studio
-* Swift
-* Objective-C
-* Java
-* Git
-* AngularJS
-* Javascript
-* HTML and CSS (not really)
+__Xcode, Swift, Objective-C, Git, Android, Java, Javascript__
 
 ## Projects
 
@@ -115,14 +104,6 @@ A simple project to move UITextView according keyboard show/hide/frame change ev
 
 `2010-14`
 __Birla Institute of Technology and Science - Pilani__ B.E.(Hons) Electronics and Electricals Engineering
-
-## Links
-
-* <i class="fa fa-envelope"></i> <a href="mailto:me@prateekgrover.com">me@prateekgrover.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/kerrygrover">kerrygrover</a><br />
-*  <i class="fa fa-linkedin"></i> <a href="https://in.linkedin.com/in/prateekgrover">Prateek Grover</a><br />
-*  <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/4042468/kerry">kerry</a>
-*  <i class="fa fa-facebook"></i> <a href="https://facebook.com/grover.kerry">grover.kerry</a><br />
 
 <!--## References
 
